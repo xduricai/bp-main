@@ -1,6 +1,8 @@
 # Internet of Value and DeFi in Solana
 
-Bachelor's thesis completed during the final year of study at the Slovak University of Technology in Bratislava, supervised by Ing. Kristián Košťál, PhD.
+Bachelor's thesis completed during the final year of study at the Slovak University of Technology in Bratislava, supervised by Ing. Kristián Košťál, PhD.  
+[IEEE Xplore](http://dx.doi.org/10.1109/Blockchain60715.2023.00028)  
+[ResearchGate](https://www.researchgate.net/publication/376830501_Omniscient_The_Universal_Blockchain_Oracle)  
 
 ## Implementation
 Basic implementations for the oracle network and smart contract referenced in the thesis can be found in the following repositories:  
