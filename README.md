@@ -6,5 +6,6 @@ Bachelor's thesis completed during the final year of study at the Slovak Univers
 Basic implementations for the oracle network and smart contract referenced in the thesis can be found in the following repositories:  
 - [Oracle Smart Contract](https://github.com/xduricai/bp-smart-contract)
 - [Oracle Network](https://github.com/xduricai/bp-oracle-network)
+- [Web Application](https://github.com/xduricai/bp-web-app)
 
 
